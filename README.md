@@ -1,12 +1,5 @@
 # PaperGen-Quiz-MiniProject-Assignments-Generator-AI
-## 🚀 Live Demo
 
-🔗 [papergen-quiz-miniproject-assignments.onrender.com](https://papergen-quiz-miniproject-assignments.onrender.com/)
-> ⚠️ Currently optimized for **desktop view** only. Mobile support is in progress.
-## version 1.0.0 is ready to use
-### Project is Under Development for Betterment. 
-_bugs can be expected
-Be enthusiast to explore the project, open for suggestions_
 
 **PaperGen** is a web-based application designed to automate the generation of educational content, including quizzes, mini-project ideas, and presentation topics. By leveraging the capabilities of Gemini 1.5 Flash, the system analyzes syllabus documents in PDF or TXT format and delivers relevant, structured, and syllabus-aligned content. The tool is intended to assist educators, students, and academic institutions in streamlining content creation and enhancing the teaching-learning process.
 
@@ -27,3 +20,4 @@ Be enthusiast to explore the project, open for suggestions_
 **Technologies Used Frontend:** _HTML5, CSS3, JavaScript Bootstrap 4/5 AJAX for asynchronous operations_
 
 **Backend:** _Python (Flask Framework) Gemini 1.5 Flash API (AI integration) pdfplumber for PDF parsing Optional: Flask-SQLAlchemy for data storage_
+
