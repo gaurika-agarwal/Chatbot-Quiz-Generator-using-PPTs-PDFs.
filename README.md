@@ -1,6 +1,3 @@
-# PaperGen-Quiz-MiniProject-Assignments-Generator-AI
-
-
 **PaperGen** is a web-based application designed to automate the generation of educational content, including quizzes, mini-project ideas, and presentation topics. By leveraging the capabilities of Gemini 1.5 Flash, the system analyzes syllabus documents in PDF or TXT format and delivers relevant, structured, and syllabus-aligned content. The tool is intended to assist educators, students, and academic institutions in streamlining content creation and enhancing the teaching-learning process.
 
 **Features File Upload Support:** Accepts syllabus files in PDF or TXT format.
@@ -20,4 +17,5 @@
 **Technologies Used Frontend:** _HTML5, CSS3, JavaScript Bootstrap 4/5 AJAX for asynchronous operations_
 
 **Backend:** _Python (Flask Framework) Gemini 1.5 Flash API (AI integration) pdfplumber for PDF parsing Optional: Flask-SQLAlchemy for data storage_
+
 
